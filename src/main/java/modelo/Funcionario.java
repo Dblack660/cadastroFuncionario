@@ -92,7 +92,7 @@ public class Funcionario {
     }
     
     public static void main(String[] args) {
-        Funcionario f = new Funcionario("xxxxx", "888.888", 1000, 160, 1);
+        Funcionario f = new Funcionario("xxxxx", "555.555", 1020, 150, 3);
         JOptionPane.showMessageDialog(null, f);
     }
 }
